@@ -11,3 +11,8 @@ Flutter Task allows you to record audio and play it back. It uses the `flutter_s
 - Read&Write:
 - android.permission.WRITE_EXTERNAL_STORAGE" />
 - android.permission.READ_EXTERNAL_STORAGE" />
+
+
+## output  
+https://github.com/user-attachments/assets/d6f15873-766f-4685-b219-1297e76ea964
+
