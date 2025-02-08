@@ -1,11 +1,13 @@
 # record_play_audio
 
-A new Flutter project.
+Flutter Task allows you to record audio and play it back. It uses the `flutter_sound_9.22.0` to handle audio recording and playback.
 
-## Getting Started
+## MinimumVersion 
 - minSdkVersion 24
-## Getting Started
+- 
+## Permissions
 
-<uses-permission android:name="android.permission.RECORD_AUDIO" />
-    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+- Record: "android.permission.RECORD_AUDIO"
+- Read&Write:
+- android.permission.WRITE_EXTERNAL_STORAGE" />
+- android.permission.READ_EXTERNAL_STORAGE" />
